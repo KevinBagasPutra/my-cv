@@ -6,30 +6,30 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Kevin Bagas Putra
+title: Programmer
+email: kevinbagasputra@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 089666664656 - 082285808306
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://kevinbagasputra.github.io/my-cv/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: kevinbagasputra
+github_username:  kevinbagasputra
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+dribbble_username: kevinbagasputra
+facebook_username: kevin.dboyresident
+flickr_username: kevinbagasputra
+instagram_username: kevinbagasputra
+linkedin_username: kevin-bagas-putra-20a456141
+xing_username: kevinbagasputra
+pinterest_username: kevinbagasputra
+youtube_username: kevinbagasputra
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
