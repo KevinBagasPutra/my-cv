@@ -1,34 +1,34 @@
 # Site
-repository: sproogen/modern-resume-theme
+repository: kevinbagasputra/my-cv
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: Kevin Bagas Putra
+title: Programmer
+email: kevinbagasputra@gmail.com
+phone: 089666664656 - 082285808306
+website: kevinbagasputra.github.io/my-cv
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: kevinbagasputra
+github_username:  kevinbagasputra
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+dribbble_username: kevinbagasputra
+facebook_username: kevin.dboyresident
+flickr_username: kevinbagasputra
+instagram_username: kevinbagasputra
+linkedin_username: kevinbagasputra
+xing_username: kevinbagasputra
+pinterest_username: kevinbagasputra
+youtube_username: kevinbagasputra
+orcid_username: kevinbagasputra
+googlescholar_username: kevinbagasputra
 
 # Additional icon links
 additional_links:
 - title: Test link
   icon: fab fa-ello
-  url: sproogen.github.io/modern-resume-theme
+  url: kevinbagasputra.github.io/my-cv
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
