@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -85,25 +85,31 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: KLINIK GIGI SEHAT
+        sub_title: IT SUPPORT
+        caption: April 2024 - Juli 2025
+        link: https://maps.app.goo.gl/ZsnFFAE89ZT1BHxo7
         quote: >
-          Short description of the company (optional)
+          Klinik Gigi Sehat didirikan pada tahun 1997 dengan tujuan memberikan perawatan gigi yang ramah dan terjangkau bagi masyarakat Kota Padang. Kami menangani berbagai keluhan gigi, termasuk sakit gigi, penambalan gigi, pencabutan gigi dewasa dan anak, pembersihan karang gigi, pemasangan behel, penyesuaian behel, serta pembuatan gigi tiruan.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          • Membangun sistem pendataan pasien.
+          • Menyortir data pasien umum dan ortho menggunakan MYSQL di import ke excel.
+          • Manajemen Sistem Informasi Klinik.
+          • Troubleshooting komputer dan jaringan.
+          • Instalasi dan pemeliharaan Software & Hardware.
+          • Membantu pelatihan staf dalam penggunaan sistem klinik.
+          • Membuat rekap bulanan keuangan klinik.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: STMIK INDONESIA PADANG
+        sub_title: SARJANA SISTEM INFORMASI
+        caption: 2016 - 2021
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          STMIK Indonesia Padang adalah perguruan tinggi yang fokus dalam pengelolaan dan pengembangan teknologi informasi. Program Sarjana Sistem Informasi di STMIK Indonesia Padang membekali mahasiswa dengan kemampuan menganalisis kebutuhan bisnis, merancang dan mengelola sistem informasi, serta menguasai pengolahan data dan aplikasi guna mendukung pengambilan keputusan organisasi di era digital. Lulusan siap bekerja di bidang pengembangan sistem, manajemen proyek IT, analisis data, serta sebagai konsultan teknologi informasi.
+        description: >
+          Sarjana Sistem Informasi, Lulusan memiliki pengetahuan dan keterampilan dalam analisis proses bisnis, perancangan sistem informasi, manajemen basis data, dan manajemen proyek teknologi informasi. Mampu mengembangkan serta mengelola sistem informasi untuk mendukung pengambilan keputusan dan operasional organisasi secara efektif dan efisien.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
