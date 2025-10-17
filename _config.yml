@@ -51,9 +51,8 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
- Seorang sarjana Sistem Informasi, terlatih dalam berbagai disiplin ilmu sistem informasi dan memiliki pengetahuan
-  yang terintegrasi dengan proses implementasi IT, di antaranya: manajemen proyek TI, analisis sistem, perancangan
+about_content: Seorang sarjana Sistem Informasi, terlatih dalam berbagai disiplin ilmu sistem informasi dan memiliki pengetahuan
+  yang terintegrasi dengan proses implementasi IT, di antaranya manajemen proyek TI, analisis sistem, perancangan
   basis data, pengembangan aplikasi, pengelolaan infrastruktur TI, serta integrasi sistem bisnis dan teknologi informasi.
 
 content:
