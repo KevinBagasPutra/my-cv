@@ -54,11 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Saya adalah seorang profesional di bidang Teknologi Informasi dengan keahlian dalam pengelolaan sistem informasi, troubleshooting hardware, software, dan jaringan, serta pengembangan website berbasis e-commerce. Saya memiliki pengalaman dalam menangani berbagai kebutuhan IT seperti pemeliharaan infrastruktur, pengelolaan database, pembuatan fitur web, serta dukungan teknis untuk memastikan kelancaran operasional.
   Dengan kemampuan analitis yang baik, saya terbiasa bekerja secara sistematis, teliti, dan berorientasi pada solusi. Saya juga memiliki semangat belajar yang tinggi, mampu beradaptasi dengan cepat terhadap perkembangan teknologi baru, serta siap memberikan kontribusi nyata dalam meningkatkan efisiensi dan produktivitas perusahaan melalui solusi IT yang efektif dan inovatif.
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
