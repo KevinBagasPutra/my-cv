@@ -93,6 +93,22 @@ content:
           Klinik Gigi Sehat didirikan pada tahun 1997 dengan tujuan memberikan perawatan gigi yang ramah dan terjangkau bagi masyarakat Kota Padang. Kami menangani berbagai keluhan gigi, termasuk sakit gigi, penambalan gigi, pencabutan gigi dewasa dan anak, pembersihan karang gigi, pemasangan behel, penyesuaian behel, serta pembuatan gigi tiruan.
         description: | # this will include new lines to allow paragraphs
           Mengembangkan dan mengelola sistem pendataan pasien, melakukan pengelolaan serta penyortiran data pasien umum dan ortho menggunakan MySQL dan mengimpor ke Excel, mengelola sistem informasi klinik, melakukan troubleshooting jaringan dan perangkat komputer, instalasi serta pemeliharaan software dan hardware, memberikan pelatihan penggunaan sistem klinik kepada staf, serta menyusun laporan keuangan bulanan secara terstruktur dan profesional.
+    layout: list
+    content:
+      - layout: right
+        title: MICRO ELECTRONICS (TOKO ELEKTRONIK)
+        sub_title: INFORMATION TECHNOLOGY SUPPORT ROLE
+        caption: Agustus 2021 - Januari 2024
+        description: | # this will include new lines to allow paragraphs
+          Menangani permintaan bantuan karyawan terkait hardware, software, dan jaringan, melakukan troubleshooting perangkat komputer, printer, IoT, serta mesin elektronik produksi, memonitor stabilitas jaringan LAN/Wi-Fi dan internet, menyusun laporan rutin kepada manajer IT mengenai permasalahan, perbaikan, serta kebutuhan upgrade, memberikan panduan penggunaan perangkat dan aplikasi, melakukan sosialisasi keamanan siber, serta berkoordinasi dengan pihak ketiga untuk pemeliharaan perangkat, lisensi software, dan pengembangan infrastruktur teknologi.
+          layout: list
+    content:
+      - layout: right
+        title: MICRO USAHA UD.FR (TOKO KAYU)
+        sub_title: WEB DEVELOPER
+        caption: Januari 2020 - April 2020
+        description: | # this will include new lines to allow paragraphs
+          Membuat, mengembangkan, dan mengelola website toko kayu (company profile dan e-commerce), menambahkan fitur katalog produk lengkap dengan harga, stok, dan deskripsi, mengelola database produk secara terstruktur, melakukan pembaruan rutin katalog sesuai ketersediaan stok, membantu pembuatan landing page untuk keperluan iklan digital, serta menangani perbaikan error atau bug pada website secara profesional.
   - title: Education
     layout: list
     content:
