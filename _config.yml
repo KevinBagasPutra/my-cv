@@ -73,6 +73,7 @@ content:
     layout: list
     content:
       - layout: right
+        border: weak
         title: KLINIK GIGI SEHAT
         sub_title: IT SUPPORT
         caption: April 2024 - Juli 2025
@@ -85,6 +86,7 @@ content:
     layout: list
     content:
       - layout: right
+        border: weak
         title: MICRO ELECTRONICS (TOKO ELEKTRONIK)
         sub_title: INFORMATION TECHNOLOGY SUPPORT ROLE
         caption: Agustus 2021 - Januari 2024
@@ -94,6 +96,7 @@ content:
     layout: list
     content:
       - layout: right
+        border: weak
         title: MICRO USAHA UD.FR (TOKO KAYU)
         sub_title: WEB DEVELOPER
         caption: Januari 2020 - April 2020
