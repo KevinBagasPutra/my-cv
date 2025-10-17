@@ -1,10 +1,10 @@
-- name: Institution 1
-  dates: 2016 - 2019
-  qualification: Degree
+- name: STMIK INDONESIA PADANG
+  dates: 2016 - 2021
+  qualification: Sarjana Sistem Informasi
   quote: >
-    Short institution or course description
+    STMIK Indonesia Padang adalah perguruan tinggi yang fokus dalam pengelolaan dan pengembangan teknologi informasi. Program Sarjana Sistem Informasi di STMIK Indonesia Padang membekali mahasiswa dengan kemampuan menganalisis kebutuhan bisnis, merancang dan mengelola sistem informasi, serta menguasai pengolahan data dan aplikasi guna mendukung pengambilan keputusan organisasi di era digital. Lulusan siap bekerja di bidang pengembangan sistem, manajemen proyek IT, analisis data, serta sebagai konsultan teknologi informasi.
   description: >
-    Description of qualification
+    Sarjana Sistem Informasi — Lulusan memiliki pengetahuan dan keterampilan dalam analisis proses bisnis, perancangan sistem informasi, manajemen basis data, dan manajemen proyek teknologi informasi. Mampu mengembangkan serta mengelola sistem informasi untuk mendukung pengambilan keputusan dan operasional organisasi secara efektif dan efisien.
 
 - layout: left
   name: Institution 2
