@@ -16,7 +16,7 @@ website: https://kevinbagasputra.github.io/my-cv/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: kevinbagasputra
